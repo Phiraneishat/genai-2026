@@ -9,6 +9,14 @@ langchain-google-genai = "*"
 langchain = "*"
 openai = "*"
 langchain-openai = "*"
+faiss-cpu = "*"
+langchain-huggingface = "*"
+langchain-groq = "*"
+langchain-community = "*"
+sentence-transformers = "*"
+langchain-classic = "*"
+langchain-text-splitters = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
